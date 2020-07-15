@@ -13,8 +13,8 @@ class Search extends React.Component {
 }
 const Styles = StyleSheet.create({
     search:{
-        flex:1,
-        maxHeight: 150,
+        flex:2,
+        minHeight: 150,
         backgroundColor: '#e6f2ff',
         flexDirection: 'column',
         justifyContent:"center",
